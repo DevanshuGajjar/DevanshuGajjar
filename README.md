@@ -108,12 +108,6 @@ SoC Verification • RTL Design • Digital Logic • Post-Silicon Validation �
 
 
 
----
-
-### 🏆 GitHub Highlights
-
-
-
 
 
 
