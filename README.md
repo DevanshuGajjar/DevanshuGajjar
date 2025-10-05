@@ -88,19 +88,21 @@ SoC Verification • RTL Design • Digital Logic • Post-Silicon Validation �
 
 ---
 
-### 📫 Connect With Me
+### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/devanshugajjar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:devanshusanjiv.gajjar@sjsu.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://devanshugajjar.github.io/My_Portfolio.github.io-main/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<a href="https://github.com/DevanshuGajjar" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/devanshugajjar/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"/>
+</a>
+<a href="mailto:devanshusanjiv.gajjar@sjsu.edu" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="40"/>
+</a>
+<a href="https://devanshugajjar.github.io/My_Portfolio.github.io-main/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg" alt="Portfolio" height="40"/>
+</a>
+
 
 
 
