@@ -91,17 +91,18 @@ SoC Verification • RTL Design • Digital Logic • Post-Silicon Validation �
 ### 🌐 Connect With Me
 
 <a href="https://github.com/DevanshuGajjar" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="40" style="filter: invert(1);"/>
 </a>
 <a href="https://www.linkedin.com/in/devanshugajjar/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40" style="filter: invert(1);"/>
 </a>
 <a href="mailto:devanshusanjiv.gajjar@sjsu.edu" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="40" style="filter: invert(1);"/>
 </a>
 <a href="https://devanshugajjar.github.io/My_Portfolio.github.io-main/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg" alt="Portfolio" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firefox.svg" alt="Portfolio" height="40" style="filter: invert(1);"/>
 </a>
+
 
 
 
