@@ -87,21 +87,23 @@ SoC Verification • RTL Design • Digital Logic • Post-Silicon Validation �
 - Open-source **SystemVerilog** or **UVM** tools  
 
 ---
-
 ### 🌐 Connect With Me
 
-<a href="https://github.com/DevanshuGajjar" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="40" style="fill: white;"/>
-</a>
-<a href="https://www.linkedin.com/in/devanshugajjar/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40" style="fill: white;"/>
-</a>
-<a href="mailto:devanshusanjiv.gajjar@sjsu.edu" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="40" style="fill: white;"/>
-</a>
-<a href="https://devanshugajjar.github.io/My_Portfolio.github.io-main/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firefox.svg" alt="Portfolio" height="40" style="fill: white;"/>
-</a>
+<p align="left">
+  <a href="https://github.com/DevanshuGajjar" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-light.svg" alt="GitHub" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/devanshugajjar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-light.svg" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="mailto:devanshusanjiv.gajjar@sjsu.edu" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail-light.svg" alt="Email" height="40"/>
+  </a>
+  <a href="https://devanshugajjar.github.io/My_Portfolio.github.io-main/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/firefox-light.svg" alt="Portfolio" height="40"/>
+  </a>
+</p>
+
 
 
 
