@@ -99,8 +99,9 @@ SoC Verification • RTL Design • Digital Logic • Post-Silicon Validation �
   <img src="https://cdn.simpleicons.org/gmail/ffffff" alt="Email" height="40">
 </a>
 <a href="https://devanshugajjar.github.io/My_Portfolio.github.io-main/" target="_blank">
-  <img src="https://cdn.simpleicons.org/firefoxbrowser/ffffff" alt="Portfolio" height="40">
+  <img src="https://cdn.simpleicons.org/internetarchive/ffffff" alt="Portfolio" height="40">
 </a>
+
 
 
 
