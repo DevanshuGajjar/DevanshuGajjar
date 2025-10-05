@@ -93,7 +93,7 @@ SoC Verification • RTL Design • Digital Logic • Post-Silicon Validation �
   <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="40">
 </a>
 <a href="https://www.linkedin.com/in/devanshugajjar/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/ffffff" alt="LinkedIn" height="40">
+  <img src="https://www.google.com/imgres?q=linkedin%20logo%20for%20website&imgurl=https%3A%2F%2Fas2.ftcdn.net%2Fjpg%2F03%2F96%2F56%2F19%2F1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fimages%2Flinkedin-logo-on-a-transparent-background-vector-editorial%2F396561934&docid=z6IuIKlLr2XmrM&tbnid=oS0ZtHyyr8Zq7M&vet=12ahUKEwjp-_D7kI6QAxW4nWoFHfiPHi8QM3oECBgQAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwjp-_D7kI6QAxW4nWoFHfiPHi8QM3oECBgQAA" alt="LinkedIn" height="40">
 </a>
 <a href="mailto:devanshusanjiv.gajjar@sjsu.edu" target="_blank">
   <img src="https://cdn.simpleicons.org/gmail/ffffff" alt="Email" height="40">
