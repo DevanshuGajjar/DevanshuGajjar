@@ -90,10 +90,18 @@ SoC Verification • RTL Design • Digital Logic • Post-Silicon Validation �
 
 ### 📫 Connect With Me
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30">](https://github.com/DevanshuGajjar)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30">](https://www.linkedin.com/in/devanshugajjar/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30">](https://www.instagram.com/devanshu3110/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Reddit" height="30">](https://www.reddit.com/user/Devanshu0709)
+<p align="left">
+  <a href="https://www.linkedin.com/in/devanshugajjar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:devanshusanjiv.gajjar@sjsu.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://devanshugajjar.github.io/My_Portfolio.github.io-main/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 
 ---
 
