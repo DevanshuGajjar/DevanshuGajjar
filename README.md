@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Devanshu Gajjar</h1>
-<h3 align="center">Electrical Engineer | SoC Design & Verification | Embedded Systems Enthusiast</h3>
+<h3 align="center">Design Verification Engineer | SoC Verification | UVM | Functional Coverage | Assertion-Based Verification</h3>
 
 ---
 
@@ -92,15 +92,16 @@ SoC Verification • RTL Design • Digital Logic • Post-Silicon Validation �
 
 <p align="left">
   <a href="https://www.linkedin.com/in/devanshugajjar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:devanshusanjiv.gajjar@sjsu.edu">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:devanshusanjiv.gajjar@sjsu.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://devanshugajjar.github.io/My_Portfolio.github.io-main/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
 
 
 ---
